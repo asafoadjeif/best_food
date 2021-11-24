@@ -1,0 +1,27 @@
+body{
+    background-color: #dbb957;
+    
+}
+h1 {
+    text-align: center;
+}
+
+.container {
+    color: #343330
+}
+
+.navbar-light .navbar-toggler-icon{
+    color: #aa9fb1;
+}
+
+@media screen and (max-width: 600px) {
+    div.tab-content {
+        font-size: 30px;
+    }
+}
+
+.d-block {
+      float: left;
+    height: 50%;
+    object-fit: cover;
+}
